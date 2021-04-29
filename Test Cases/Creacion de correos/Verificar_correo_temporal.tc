@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verificar_correo_temporal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a444de5-5cd2-405e-ba91-64d4951c6d7e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b49d799-b611-47a5-bfed-dc3855c101b9</id>
+      <masked>false</masked>
+      <name>EmailTemporal</name>
+   </variable>
+</TestCaseEntity>

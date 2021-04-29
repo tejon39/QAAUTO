@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icono_mis_alquileres</name>
+   <tag></tag>
+   <elementGuidId>67e909f2-a816-4fb4-9d19-a4e305b3142d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.dropDownUser__icon-2Bav.controlIcon__icon-k8gh.controlIcon__info-3Bit.controlIcon__white-emYn.null</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_mtweb']/nav[2]/div[3]/div/ul/li[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Icon Info</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropDownUser__icon-2Bav controlIcon__icon-k8gh controlIcon__info-3Bit controlIcon__white-emYn null</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_mtweb&quot;)/nav[@class=&quot;headerNav__normal-3Tdn header__container-110H&quot;]/div[@class=&quot;header__rightSide-B2rh&quot;]/div[@class=&quot;header__userDropDownMenu-3bw2 dropDownUser__container-2vnE&quot;]/ul[@class=&quot;dropDownUser__list-2nCC&quot;]/li[5]/a[@class=&quot;dropDownUser__link-1_jR&quot;]/i[@class=&quot;dropDownUser__icon-2Bav controlIcon__icon-k8gh controlIcon__info-3Bit controlIcon__white-emYn null&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_mtweb']/nav[2]/div[3]/div/ul/li[5]/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

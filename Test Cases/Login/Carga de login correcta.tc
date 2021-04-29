@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se compruena la carga correcta de la pagina de login</description>
+   <name>Carga de login correcta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2634b64-ee2b-4304-b682-889f80f9a090</testCaseGuid>
+</TestCaseEntity>

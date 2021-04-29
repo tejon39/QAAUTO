@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creacion correo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24299867-a49d-4623-a722-723f7f57be7f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c7aa1ad-f889-4075-9c6e-f6b08e0680bc</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea8524dc-d1a1-4f82-9552-f91773fa2deb</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36919978-f616-4ba3-b623-6884977d7f90</id>
+      <masked>false</masked>
+      <name>Nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d82462f-67a8-416b-9126-5583bfcc88f0</id>
+      <masked>false</masked>
+      <name>Apellidos</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5926e5a0-8823-426f-a43a-a5548007b5f8</id>
+      <masked>false</masked>
+      <name>Dia</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8044806-24f2-4526-b524-0dfe14a7e428</id>
+      <masked>false</masked>
+      <name>Mes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06c2199e-3581-40c1-834f-78f413847cf5</id>
+      <masked>false</masked>
+      <name>Ano</name>
+   </variable>
+</TestCaseEntity>

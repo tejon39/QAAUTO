@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Correotemporal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>333c96b4-b57c-449f-a85e-36aedb494130</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ab7dc0f-7b68-48ab-bf0c-373e48d0d48e</id>
+      <masked>false</masked>
+      <name>Emal</name>
+   </variable>
+</TestCaseEntity>

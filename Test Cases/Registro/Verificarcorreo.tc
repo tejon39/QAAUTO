@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verificarcorreo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>379e8947-a922-43b3-9236-0f079f197860</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ebb3b5c-4e9f-4630-a530-1c848c547917</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e47afd67-c536-4d65-986b-9dee471662a7</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

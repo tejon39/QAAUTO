@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hazte PLUS_header__userCircle_icon-q_be0f2f</name>
+   <tag></tag>
+   <elementGuidId>1199eaad-3159-42d4-9c26-ee011bf918cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_mtweb']/nav[2]/div[3]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.header__userCircle_icon-qh8Z.null.controlIcon__icon-k8gh.controlIcon__userCircle-30Xp.controlIcon__white-emYn.controlIcon__button-62jp.null</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Icon User Circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__userCircle_icon-qh8Z null controlIcon__icon-k8gh controlIcon__userCircle-30Xp controlIcon__white-emYn controlIcon__button-62jp null</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_mtweb&quot;)/nav[@class=&quot;headerNav__normal-3Tdn header__container-110H&quot;]/div[@class=&quot;header__rightSide-B2rh&quot;]/button[@class=&quot;header__userCircle_icon-qh8Z null controlIcon__icon-k8gh controlIcon__userCircle-30Xp controlIcon__white-emYn controlIcon__button-62jp null&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_mtweb']/nav[2]/div[3]/button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

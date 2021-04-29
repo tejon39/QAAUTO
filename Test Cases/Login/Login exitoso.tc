@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login exitoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a247c8d7-9cb8-4d91-b1c5-fb6102fd95fb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ca0f0b2-22d5-49e0-9d78-f6b32a60d112</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9828e5e1-87a1-4663-ab18-0b6eed0c36a8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

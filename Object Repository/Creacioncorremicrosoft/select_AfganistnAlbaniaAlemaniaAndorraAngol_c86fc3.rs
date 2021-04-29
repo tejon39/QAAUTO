@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AfganistnAlbaniaAlemaniaAndorraAngol_c86fc3</name>
+   <tag></tag>
+   <elementGuidId>beec18e0-0840-4575-a9c4-83b0b99b70b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Country']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Country</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Country</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Country</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: countries,
+                                        optionsValue: 'iso',
+                                        optionsText: 'name',
+                                        value: country,
+                                        ariaDescribedBy: 'iPageTitle BirthDateCountryDesc'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AfganistánAlbaniaAlemaniaAndorraAngolaAnguilaAntártidaAntigua y BarbudaAntiguas Antillas HolandesasArabia SaudíArgeliaArgentinaArmeniaArubaAustraliaAustriaAutoridad PalestinaAzerbaiyánBangladeshBarbadosBelarúsBélgicaBeliceBenínBermudasBoliviaBonaireBosnia y HerzegovinaBotsuanaBrasilBrunéiBulgariaBurkina FasoBurundiButánCabo VerdeCamboyaCamerúnCanadáChadChequiaChileChinaChipreCiudad del VaticanoColombiaComorasCongo (RDC)Corea del SurCosta RicaCôte d'IvoireCroacia (Hrvatska)CubaCurazaoDinamarcaDominicaEcuadorEgiptoEl SalvadorEmiratos Árabes UnidosEritreaEslovaquiaEsloveniaEspañaEstados UnidosEstoniaEtiopíaFilipinasFinlandiaFiyiFranciaGabónGambiaGeorgiaGeorgia del Sur e Islas Sandwich del SurGhanaGibraltarGranadaGreciaGroenlandiaGuadalupeGuamGuatemalaGuayana FrancesaGuernseyGuineaGuinea EcuatorialGuinea-BissauGuyanaHaitíHondurasHong Kong RAEHungríaIndiaIndonesiaIrakIránIrlandaIsla AscensiónIsla BouvetIsla de ManIsla de NavidadIsla NorfolkIslandiaIslas ÅlandIslas CaimánIslas CocosIslas CookIslas FeroeIslas Heard y McDonaldIslas MalvinasIslas Marianas del NorteIslas MarshallIslas menores alejadas de los EE. UU.Islas PitcairnIslas SalomónIslas Turcas y CaicosIslas Vírgenes BritánicasIslas Vírgenes de los Estados UnidosIsraelItaliaJamaicaJan MayenJapónJerseyJordaniaKazajistánKeniaKirguistánKiribatiKosovoKuwaitLaosLas BahamasLesotoLetoniaLíbanoLiberiaLibiaLiechtensteinLituaniaLuxemburgoMacao RAEMacedonia del NorteMadagascarMalasiaMalawiMaldivasMalíMaltaMarruecosMartinicaMauricioMauritaniaMayotteMéxicoMicronesiaMoldovaMónacoMongoliaMontenegroMontserratMozambiqueMyanmarNamibiaNauruNepalNicaraguaNígerNigeriaNiueNoruegaNueva CaledoniaNueva ZelandaOmánPaíses BajosPakistánPalaosPanamáPapúa Nueva GuineaParaguayPerúPolinesia FrancesaPoloniaPortugalPuerto RicoQatarReino de BaréinReino UnidoRepública CentroafricanaRepública del CongoRepública DominicanaReuniónRuandaRumaníaRusiaSabaSamoaSamoa AmericanaSan BartoloméSan Cristóbal y NievesSan EustaquioSan MarinoSan MartínSan Pedro y MiquelónSan Vicente y las GranadinasSanta Elena, Ascensión y Tristán da CunhaSanta LucíaSanto Tomé y PríncipeSenegalSerbiaSeychellesSierra LeonaSingapurSint MaartenSiriaSomaliaSri LankaSuazilandiaSudáfricaSudánSudán del SurSueciaSuizaSurinamSvalbardTailandiaTaiwánTanzaniaTayikistánTerritorio Británico del Océano ÍndicoTerritorios Australes FrancesesTimor-LesteTogoTokelauTongaTrinidad y TobagoTristán da CunhaTúnezTurkmenistánTurquíaTuvaluUcraniaUgandaUruguayUzbekistánVanuatuVenezuelaVietnamWallis y FutunaYemenYibutiZambiaZimbabue
+                            </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Country&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Country']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BirthDateCountryAccrualInputPane']/div[3]/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País o región'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cuál es su fecha de nacimiento?'])[2]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espera'])[1]/preceding::select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espera'])[2]/preceding::select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+   </webElementXpaths>
+</WebElementEntity>

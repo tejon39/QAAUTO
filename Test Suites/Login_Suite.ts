@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c8b07d48-ecba-4625-bc49-d7e954c7434f</testSuiteGuid>
+   <testCaseLink>
+      <guid>951182e0-6bf6-46a6-8c39-7db5551138b7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Carga de login correcta</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c033e71e-c961-4d2c-99e2-d260192b470f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Formato correcto de login</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>137c419c-1e09-44f4-af4f-95efd13972ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login con campos vacios</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e17e99b6-a8a2-4240-b171-5375b5b754ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login con correo inexistente</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8c954482-5b83-425b-99b1-83c90a775368</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Iniciarsesion</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8c954482-5b83-425b-99b1-83c90a775368</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>8e841e4c-9f96-495f-836c-88d5d0faac6a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8c954482-5b83-425b-99b1-83c90a775368</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>220cbd73-2829-49f0-a249-260fff069477</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4d6d588a-dc2b-4d62-8649-9835343a75e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login con email invalido</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>51873379-b271-40bc-b7d5-069e52820ead</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Iniciarsesion</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>51873379-b271-40bc-b7d5-069e52820ead</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>48383196-8a05-4136-afa0-82fff1afe98d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>51873379-b271-40bc-b7d5-069e52820ead</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>da17bf23-38eb-422a-b0f4-1e686b804e97</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>eb7dd047-5409-493c-a7d7-6061da5c165c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login con password incorrecto</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4a56d99b-cedc-42d5-9969-91d08111266f</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Iniciarsesion</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>4a56d99b-cedc-42d5-9969-91d08111266f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>e2865f9f-839e-4a12-9d69-f53e74641533</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4a56d99b-cedc-42d5-9969-91d08111266f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>e79a411e-f6c0-4fcc-8765-4f33800b9907</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dcdfe6da-9ee7-4135-9fb5-60100849b849</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login con password vacio</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>30df0e57-863e-46e3-806a-f85538585add</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Iniciarsesion</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>30df0e57-863e-46e3-806a-f85538585add</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>76da57e7-f5ea-4360-b5d4-bc5dc9d7e542</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>30df0e57-863e-46e3-806a-f85538585add</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>c50ec969-1be7-4e68-a8b9-9164284cbc61</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>62d58e72-8475-4c88-80d5-461d1ea174fb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login exitoso</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7c0fe93c-9e1d-4a6f-8c36-41c48127a2dd</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Iniciarsesion</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>7c0fe93c-9e1d-4a6f-8c36-41c48127a2dd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>4ca0f0b2-22d5-49e0-9d78-f6b32a60d112</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7c0fe93c-9e1d-4a6f-8c36-41c48127a2dd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>9828e5e1-87a1-4663-ab18-0b6eed0c36a8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

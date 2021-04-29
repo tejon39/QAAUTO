@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login con correo inexistente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3fa0192-90d0-40f6-80e2-7537b9bc385c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e841e4c-9f96-495f-836c-88d5d0faac6a</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>220cbd73-2829-49f0-a249-260fff069477</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login con email invalido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6207f04b-1c04-45f9-a697-b3778e162be9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48383196-8a05-4136-afa0-82fff1afe98d</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da17bf23-38eb-422a-b0f4-1e686b804e97</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
